@@ -5,6 +5,7 @@ const sampleOne = () => {
   return (
     <View>
       <Text>sampleOne</Text>
+      <Text>If you pull this into another branch, you should get these changes in your branch</Text>
     </View>
   )
 }
